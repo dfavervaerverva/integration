@@ -1,0 +1,306 @@
+<?xml version="1.0"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:o="urn:schemas-microsoft-com:office:office"
+ xmlns:x="urn:schemas-microsoft-com:office:excel"
+ xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:html="http://www.w3.org/TR/REC-html40">
+ <DocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
+  <Version>11.9999</Version>
+ </DocumentProperties>
+ <ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel">
+  <WindowHeight>10005</WindowHeight>
+  <WindowWidth>10005</WindowWidth>
+  <WindowTopX>120</WindowTopX>
+  <WindowTopY>135</WindowTopY>
+  <ProtectStructure>False</ProtectStructure>
+  <ProtectWindows>False</ProtectWindows>
+ </ExcelWorkbook>
+ <Styles>
+  <Style ss:ID="Default" ss:Name="Normal">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font ss:FontName="Arial Cyr" x:CharSet="204"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+ </Styles>
+ <Worksheet ss:Name="QA29">
+  <Table ss:ExpandedColumnCount="19" ss:ExpandedRowCount="43" x:FullColumns="1"
+   x:FullRows="1">
+   <Column ss:AutoFitWidth="0" ss:Width="110.25"/>
+   <Row>
+    <Cell><Data ss:Type="String">Код</Data></Cell>
+    <Cell><Data ss:Type="String">Проект</Data></Cell>
+    <Cell><Data ss:Type="String">Хто повідомив</Data></Cell>
+    <Cell><Data ss:Type="String">Кому призначена</Data></Cell>
+    <Cell><Data ss:Type="String">Пріоритет</Data></Cell>
+    <Cell><Data ss:Type="String">Серйозність</Data></Cell>
+    <Cell><Data ss:Type="String">Відтворюваність</Data></Cell>
+    <Cell><Data ss:Type="String">Версія продукту</Data></Cell>
+    <Cell><Data ss:Type="String">Категорія</Data></Cell>
+    <Cell><Data ss:Type="String">Зареєстрована</Data></Cell>
+    <Cell><Data ss:Type="String">ОС</Data></Cell>
+    <Cell><Data ss:Type="String">Версія</Data></Cell>
+    <Cell><Data ss:Type="String">Платформа</Data></Cell>
+    <Cell><Data ss:Type="String">Рівень доступу</Data></Cell>
+    <Cell><Data ss:Type="String">Оновлена</Data></Cell>
+    <Cell><Data ss:Type="String">Статистика</Data></Cell>
+    <Cell><Data ss:Type="String">Статус</Data></Cell>
+    <Cell><Data ss:Type="String">Резолюція</Data></Cell>
+    <Cell><Data ss:Type="String">Виправлена у версії</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">1376</Data></Cell>
+    <Cell><Data ss:Type="String">QA29</Data></Cell>
+    <Cell><Data ss:Type="String">Serginho</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String">низький</Data></Cell>
+    <Cell><Data ss:Type="String">текст</Data></Cell>
+    <Cell><Data ss:Type="String">завжди</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String">General</Data></Cell>
+    <Cell><Data ss:Type="String">2023-09-23</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String">спільна</Data></Cell>
+    <Cell><Data ss:Type="String">2023-09-23</Data></Cell>
+    <Cell><Data ss:Type="String">[L10N] На карті сайту неправильно написано слово &quot;Проектування&quot;</Data></Cell>
+    <Cell><Data ss:Type="String">нова</Data></Cell>
+    <Cell><Data ss:Type="String">відкрита</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">1375</Data></Cell>
+    <Cell><Data ss:Type="String">QA29</Data></Cell>
+    <Cell><Data ss:Type="String">Serginho</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String">низький</Data></Cell>
+    <Cell><Data ss:Type="String">текст</Data></Cell>
+    <Cell><Data ss:Type="String">завжди</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String">General</Data></Cell>
+    <Cell><Data ss:Type="String">2023-09-23</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String">спільна</Data></Cell>
+    <Cell><Data ss:Type="String">2023-09-23</Data></Cell>
+    <Cell><Data ss:Type="String">Не правильно написано слово &quot;фронд-енд&quot;</Data></Cell>
+    <Cell><Data ss:Type="String">нова</Data></Cell>
+    <Cell><Data ss:Type="String">відкрита</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">1374</Data></Cell>
+    <Cell><Data ss:Type="String">QA29</Data></Cell>
+    <Cell><Data ss:Type="String">Serginho</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String">низький</Data></Cell>
+    <Cell><Data ss:Type="String">доводка</Data></Cell>
+    <Cell><Data ss:Type="String">завжди</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String">General</Data></Cell>
+    <Cell><Data ss:Type="String">2023-09-23</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String">спільна</Data></Cell>
+    <Cell><Data ss:Type="String">2023-09-23</Data></Cell>
+    <Cell><Data ss:Type="String">Некоректне відображення посилання на один з продуктів сайту</Data></Cell>
+    <Cell><Data ss:Type="String">нова</Data></Cell>
+    <Cell><Data ss:Type="String">відкрита</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">1373</Data></Cell>
+    <Cell><Data ss:Type="String">QA29</Data></Cell>
+    <Cell><Data ss:Type="String">Serginho</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String">низький</Data></Cell>
+    <Cell><Data ss:Type="String">текст</Data></Cell>
+    <Cell><Data ss:Type="String">завжди</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String">General</Data></Cell>
+    <Cell><Data ss:Type="String">2023-09-23</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String">спільна</Data></Cell>
+    <Cell><Data ss:Type="String">2023-09-23</Data></Cell>
+    <Cell><Data ss:Type="String">[L10N] Проблема з локалізацією в розділі &quot;Розробка веб-додатків&quot;</Data></Cell>
+    <Cell><Data ss:Type="String">нова</Data></Cell>
+    <Cell><Data ss:Type="String">відкрита</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">1372</Data></Cell>
+    <Cell><Data ss:Type="String">QA29</Data></Cell>
+    <Cell><Data ss:Type="String">Serginho</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String">низький</Data></Cell>
+    <Cell><Data ss:Type="String">доводка</Data></Cell>
+    <Cell><Data ss:Type="String">завжди</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String">General</Data></Cell>
+    <Cell><Data ss:Type="String">2023-09-23</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String">спільна</Data></Cell>
+    <Cell><Data ss:Type="String">2023-09-23</Data></Cell>
+    <Cell><Data ss:Type="String">Проблема з відображенням інформації на сторінці &quot;Веб-додатки&quot;</Data></Cell>
+    <Cell><Data ss:Type="String">нова</Data></Cell>
+    <Cell><Data ss:Type="String">відкрита</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">1371</Data></Cell>
+    <Cell><Data ss:Type="String">QA29</Data></Cell>
+    <Cell><Data ss:Type="String">Serginho</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String">низький</Data></Cell>
+    <Cell><Data ss:Type="String">текст</Data></Cell>
+    <Cell><Data ss:Type="String">завжди</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String">General</Data></Cell>
+    <Cell><Data ss:Type="String">2023-09-23</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String">спільна</Data></Cell>
+    <Cell><Data ss:Type="String">2023-09-23</Data></Cell>
+    <Cell><Data ss:Type="String">[L10N] Проблема з локалізацією у хедері на головній сторінці</Data></Cell>
+    <Cell><Data ss:Type="String">нова</Data></Cell>
+    <Cell><Data ss:Type="String">відкрита</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="19"><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="19"><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="19"><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="19"><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="19"><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="19"><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="19"><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="19"><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="19"><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="19"><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="19"><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="19"><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="19"><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="19"><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="19"><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="19"><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="19"><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="19"><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="19"><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="19"><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="19"><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="19"><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="19"><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="19"><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="19"><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="19"><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="19"><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="19"><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="19"><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="19"><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="19"><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="19"><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="19"><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="19"><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="19"><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="19"><Data ss:Type="String"></Data></Cell>
+   </Row>
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <PageSetup>
+    <PageMargins x:Bottom="0.984251969" x:Left="0.78740157499999996"
+     x:Right="0.78740157499999996" x:Top="0.984251969"/>
+   </PageSetup>
+   <Selected/>
+   <Panes>
+    <Pane>
+     <Number>3</Number>
+     <ActiveRow>25</ActiveRow>
+     <ActiveCol>19</ActiveCol>
+    </Pane>
+   </Panes>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+ </Worksheet>
+</Workbook>
