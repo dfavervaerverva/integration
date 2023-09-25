@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite>
+	<id>S1</id>
+	<name>Master</name>
+	<description></description>
+	<sections>
+		<section>
+		<name>Test Cases</name>
+		<description></description>
+						<cases>
+												<case>
+				<id>C1</id>
+				<title>Перевірка розміру шрифта напису &quot;Зв&apos;язатися з нами&quot;</title>
+												<template>Test Case (Text)</template>
+																<type>Other</type>
+																<priority>Low</priority>
+																				<estimate>60</estimate>
+																								<references></references>
+																				<custom>
+										<automation_type><id>0</id><value> None</value></automation_type>
+										<steps>1. Відкрити сайт https://zezman.ua/
+2. Пролистати головну сторінку донизу
+3. Подивитись на напис &quot;Зв&apos;язатися з нами&quot;</steps>
+										<expected>Розмір шрифту напису &quot;Зв&apos;язатися з нами&quot; відповідає заявленому стандарту</expected>
+									</custom>
+							</case>
+															<case>
+				<id>C2</id>
+				<title>Перевірка кольору шрифта напису &quot;Зв&apos;язатися з нами&quot;</title>
+												<template>Test Case (Text)</template>
+																<type>Other</type>
+																<priority>Low</priority>
+																				<estimate>60</estimate>
+																								<references></references>
+																				<custom>
+										<automation_type><id>0</id><value> None</value></automation_type>
+										<steps>1. Відкрити сайт https://zezman.ua/
+2. Пролистати головну сторінку донизу
+3. Подивитись на напис &quot;Зв&apos;язатися з нами&quot;</steps>
+										<expected>Колір шрифту напису &quot;Зв&apos;язатися з нами&quot; відповідає заявленому стандарту</expected>
+									</custom>
+							</case>
+															<case>
+				<id>C3</id>
+				<title>Перевірка типу шрифта напису &quot;Зв&apos;язатися з нами&quot;</title>
+												<template>Test Case (Text)</template>
+																<type>Other</type>
+																<priority>Low</priority>
+																				<estimate>60</estimate>
+																								<references></references>
+																				<custom>
+										<automation_type><id>0</id><value> None</value></automation_type>
+										<steps>1. Відкрити сайт https://zezman.ua/
+2. Пролистати головну сторінку донизу
+3. Подивитись на напис &quot;Зв&apos;язатися з нами&quot;</steps>
+										<expected>Тип шрифту напису &quot;Зв&apos;язатися з нами&quot; відповідає заявленому стандарту</expected>
+									</custom>
+							</case>
+															<case>
+				<id>C4</id>
+				<title>Перевірка форми іконки з прапором України під написом &quot;Зв&apos;язатися з нами&quot;</title>
+												<template>Test Case (Text)</template>
+																<type>Other</type>
+																<priority>Low</priority>
+																				<estimate>60</estimate>
+																								<references></references>
+																				<custom>
+										<automation_type><id>0</id><value> None</value></automation_type>
+										<steps>1. Відкрити сайт https://zezman.ua/
+2. Пролистати головну сторінку донизу
+3. Подивитись на іконку з прапором України під написом &quot;Зв&apos;язатися з нами&quot;</steps>
+										<expected>Форма іконки з прапором України під написом &quot;Зв&apos;язатися з нами&quot; відповідає заявленій специфікації</expected>
+									</custom>
+							</case>
+															<case>
+				<id>C5</id>
+				<title>Перевірка розміру іконки з прапором України під написом &quot;Зв&apos;язатися з нами&quot;</title>
+												<template>Test Case (Text)</template>
+																<type>Other</type>
+																<priority>Low</priority>
+																				<estimate>60</estimate>
+																								<references></references>
+																				<custom>
+										<automation_type><id>0</id><value> None</value></automation_type>
+										<steps>1. Відкрити сайт https://zezman.ua/
+2. Пролистати головну сторінку донизу
+3. Подивитись на іконку з прапором України під написом &quot;Зв&apos;язатися з нами&quot;</steps>
+										<expected>Розмір іконки з прапором України під написом &quot;Зв&apos;язатися з нами&quot; відповідає заявленій специфікації</expected>
+									</custom>
+							</case>
+															<case>
+				<id>C6</id>
+				<title>Перевірка розміру іконки з прапором ЄС під написом &quot;Зв&apos;язатися з нами&quot;</title>
+												<template>Test Case (Text)</template>
+																<type>Other</type>
+																<priority>Low</priority>
+																				<estimate>60</estimate>
+																								<references></references>
+																				<custom>
+										<automation_type><id>0</id><value> None</value></automation_type>
+										<steps>1. Відкрити сайт https://zezman.ua/
+2. Пролистати головну сторінку донизу
+3. Подивитись на іконку з прапором ЄС під написом &quot;Зв&apos;язатися з нами&quot;</steps>
+										<expected>Розмір іконки з прапором ЄС під написом &quot;Зв&apos;язатися з нами&quot; відповідає заявленій специфікації</expected>
+									</custom>
+							</case>
+															<case>
+				<id>C7</id>
+				<title>Перевірка форми іконки з прапором ЄС під написом &quot;Зв&apos;язатися з нами&quot;</title>
+												<template>Test Case (Text)</template>
+																<type>Other</type>
+																<priority>Low</priority>
+																				<estimate>60</estimate>
+																								<references></references>
+																				<custom>
+										<automation_type><id>0</id><value> None</value></automation_type>
+										<steps>1. Відкрити сайт https://zezman.ua/
+2. Пролистати головну сторінку донизу
+3. Подивитись на іконку з прапором ЄС під написом &quot;Зв&apos;язатися з нами&quot;</steps>
+										<expected>Форма іконки з прапором ЄС під написом &quot;Зв&apos;язатися з нами&quot; відповідає заявленій специфікації</expected>
+									</custom>
+							</case>
+															<case>
+				<id>C8</id>
+				<title>Перевірка форми іконки з прапором Ізраїлю під написом &quot;Зв&apos;язатися з нами&quot;</title>
+												<template>Test Case (Text)</template>
+																<type>Other</type>
+																<priority>Low</priority>
+																				<estimate>60</estimate>
+																								<references></references>
+																				<custom>
+										<automation_type><id>0</id><value> None</value></automation_type>
+										<steps>1. Відкрити сайт https://zezman.ua/
+2. Пролистати головну сторінку донизу
+3. Подивитись на іконку з прапором Ізраїлю під написом &quot;Зв&apos;язатися з нами&quot;</steps>
+										<expected>Форма іконки з прапором Ізраїлю під написом &quot;Зв&apos;язатися з нами&quot; відповідає заявленій специфікації</expected>
+									</custom>
+							</case>
+															<case>
+				<id>C9</id>
+				<title>Перевірка розміру іконки з прапором Ізраїлю під написом &quot;Зв&apos;язатися з нами&quot;</title>
+												<template>Test Case (Text)</template>
+																<type>Other</type>
+																<priority>Low</priority>
+																				<estimate>60</estimate>
+																								<references></references>
+																				<custom>
+										<automation_type><id>0</id><value> None</value></automation_type>
+										<steps>1. Відкрити сайт https://zezman.ua/
+2. Пролистати головну сторінку донизу
+3. Подивитись на іконку з прапором Ізраїлю під написом &quot;Зв&apos;язатися з нами&quot;</steps>
+										<expected>Розмір іконки з прапором Ізраїлю під написом &quot;Зв&apos;язатися з нами&quot; відповідає заявленій специфікації</expected>
+									</custom>
+							</case>
+															<case>
+				<id>C10</id>
+				<title>Перевірка розміру шрифта з номерами телефонів під написом &quot;Зв&apos;язатися з нами&quot;</title>
+												<template>Test Case (Text)</template>
+																<type>Other</type>
+																<priority>Low</priority>
+																				<estimate>60</estimate>
+																								<references></references>
+																				<custom>
+										<automation_type><id>0</id><value> None</value></automation_type>
+										<steps>1. Відкрити сайт https://zezman.ua/
+2. Пролистати головну сторінку донизу
+3. Подивитись на шрифт з номерами телефонів під написом &quot;Зв&apos;язатися з нами&quot;</steps>
+										<expected>Розмір шрифта з номерами телефонів під написом &quot;Зв&apos;язатися з нами&quot; відповідає заявленій специфікації</expected>
+									</custom>
+							</case>
+															<case>
+				<id>C11</id>
+				<title>Перевірка кольору шрифта з номерами телефонів під написом &quot;Зв&apos;язатися з нами&quot;</title>
+												<template>Test Case (Text)</template>
+																<type>Other</type>
+																<priority>Low</priority>
+																				<estimate>60</estimate>
+																								<references></references>
+																				<custom>
+										<automation_type><id>0</id><value> None</value></automation_type>
+										<steps>1. Відкрити сайт https://zezman.ua/
+2. Пролистати головну сторінку донизу
+3. Подивитись на шрифт з номерами телефонів під написом &quot;Зв&apos;язатися з нами&quot;</steps>
+										<expected>Колір шрифта з номерами телефонів під написом &quot;Зв&apos;язатися з нами&quot; відповідає заявленій специфікації</expected>
+									</custom>
+							</case>
+															<case>
+				<id>C12</id>
+				<title>Перевірка типу шрифта з номерами телефонів під написом &quot;Зв&apos;язатися з нами&quot;</title>
+												<template>Test Case (Text)</template>
+																<type>Other</type>
+																<priority>Low</priority>
+																				<estimate>60</estimate>
+																								<references></references>
+																				<custom>
+										<automation_type><id>0</id><value> None</value></automation_type>
+										<steps>1. Відкрити сайт https://zezman.ua/
+2. Пролистати головну сторінку донизу
+3. Подивитись на шрифт з номерами телефонів під написом &quot;Зв&apos;язатися з нами&quot;</steps>
+										<expected>Тип шрифта з номерами телефонів під написом &quot;Зв&apos;язатися з нами&quot; відповідає заявленій специфікації</expected>
+									</custom>
+							</case>
+															<case>
+				<id>C13</id>
+				<title>Перевірка можливості зателефонувати на український номер під написом &quot;Зв&apos;язатися з нами&quot;</title>
+												<template>Test Case (Text)</template>
+																<type>Other</type>
+																<priority>Low</priority>
+																				<estimate>60</estimate>
+																								<references></references>
+																				<custom>
+										<automation_type><id>0</id><value> None</value></automation_type>
+										<steps>1. Відкрити сайт https://zezman.ua/
+2. Пролистати головну сторінку донизу
+3. Подивитись на номери телефонів під написом &quot;Зв&apos;язатися з нами&quot;
+4. Спробувати зателефонувати на український номер телефону</steps>
+										<expected>Дзвінок доходить до адресату</expected>
+									</custom>
+							</case>
+															<case>
+				<id>C14</id>
+				<title>Перевірка можливості зателефонувати на номер ЄС під написом &quot;Зв&apos;язатися з нами&quot;</title>
+												<template>Test Case (Text)</template>
+																<type>Other</type>
+																<priority>Low</priority>
+																				<estimate>60</estimate>
+																								<references></references>
+																				<custom>
+										<automation_type><id>0</id><value> None</value></automation_type>
+										<steps>1. Відкрити сайт https://zezman.ua/
+2. Пролистати головну сторінку донизу
+3. Подивитись на номери телефонів під написом &quot;Зв&apos;язатися з нами&quot;
+4. Спробувати зателефонувати на номер телефону ЄС</steps>
+										<expected>Дзвінок доходить до адресату</expected>
+									</custom>
+							</case>
+															<case>
+				<id>C15</id>
+				<title>Перевірка можливості зателефонувати на ізраїльський номер під написом &quot;Зв&apos;язатися з нами&quot;</title>
+												<template>Test Case (Text)</template>
+																<type>Other</type>
+																<priority>Low</priority>
+																				<estimate>60</estimate>
+																								<references></references>
+																				<custom>
+										<automation_type><id>0</id><value> None</value></automation_type>
+										<steps>1. Відкрити сайт https://zezman.ua/
+2. Пролистати головну сторінку донизу
+3. Подивитись на номери телефонів під написом &quot;Зв&apos;язатися з нами&quot;
+4. Спробувати зателефонувати на ізраїльський номер телефону</steps>
+										<expected>Дзвінок доходить до адресату</expected>
+									</custom>
+							</case>
+								</cases>
+							</section>
+	</sections>
+</suite>
